@@ -8,7 +8,7 @@ Intended for people who want to paint their sneakers, but have no good platform 
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Customisable Parts:** Allows for extensive control over individual sneaker parts, more than existing tools.
 - **Real-Time Preview:** Changes apply instantly on a smoothly rotating 3D model.
