@@ -20,5 +20,6 @@ Intended for people who want to paint their sneakers, but have no good platform 
 
 React, Vite, Three.js, Blender
 
+---
 
-*Made by Jasper Ang @jsprdev
+Made by Jasper Ang @jsprdev
