@@ -21,4 +21,4 @@ Intended for people who want to paint their sneakers, but have no good platform 
 React, Vite, Three.js, Blender
 
 
-*Made with ❤️ by [Your Name](https://github.com/your-username)*  
+*Made by Jasper Ang @jsprdev
