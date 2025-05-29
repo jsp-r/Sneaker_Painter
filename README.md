@@ -11,10 +11,8 @@ Intended for people who want to paint their sneakers, but have no good platform 
 ## 🚀 Features
 
 - **Customisable Parts:** Allows for extensive control over individual sneaker parts, more than existing tools.
-- 🔄 **Real-Time Preview:** Changes apply instantly on a smoothly rotating 3D model.
-- 📱 **Responsive UI:** Works on desktop and mobile browsers.
-- 🔗 **Shareable Link:** Copy a URL that preserves your color choices.
-- ⚙️ **Extensible Parts:** Easily add or rename mesh groups (e.g. swoosh, sole, laces).
+- **Real-Time Preview:** Changes apply instantly on a smoothly rotating 3D model.
+- **Saveable Presets** Save your favourite colour combinations as a named preset, saved locally to your browser session.
 
 ---
 
