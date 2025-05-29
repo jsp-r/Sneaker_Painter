@@ -18,11 +18,7 @@ A lightweight, React + Three.js app that lets you paint 3D sneaker models in rea
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-18.x-blue)  
-![Three.js](https://img.shields.io/badge/Three.js-r152-orange)  
-![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000)  
-![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue)  
-
+React, Vite, Three.js, Blender
 
 
 ---
