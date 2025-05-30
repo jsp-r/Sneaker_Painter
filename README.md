@@ -22,4 +22,4 @@ React, Vite, Three.js, Blender
 
 ---
 
-Made by Jasper Ang @jsprdev
+Made by @jsprdev
